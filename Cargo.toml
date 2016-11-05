@@ -1,0 +1,7 @@
+[package]
+name = "colstore"
+version = "0.1.0"
+authors = ["wdicharry"]
+
+[dependencies]
+rustc-serialize = "0.3"
